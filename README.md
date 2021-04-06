@@ -1,8 +1,8 @@
 # cs_python_toolkit
-My notebooks for Python examples with detailed comments.
+My notebooks for Python examples with comments.
 
 ## tb_for_torch.py
-An example for using TensorBoard in PyTorch.
+A very simple example for using TensorBoard in PyTorch.
 
 ## tm_tables.py
-An example for using AsciiTable in terminaltables package.
+A very simple example for using AsciiTable in terminaltables package.
