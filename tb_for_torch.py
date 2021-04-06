@@ -14,5 +14,5 @@ if __name__ == '__main__':
         writer.close()
 
 # run
-# tensorboard --logdir absolute_path/runs
+# tensorboard --logdir <absolute_path>/runs
 # in terminal or cmd
